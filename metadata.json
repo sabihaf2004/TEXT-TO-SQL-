@@ -1,0 +1,6 @@
+{
+  "name": "ClarifySQL - AI Text-to-SQL with Clarification Engine",
+  "description": "Production-style AI Text-to-SQL system featuring conversational ambiguity detection, interactive clarification engine, secure SQL validation, PostgreSQL execution, and natural language insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
